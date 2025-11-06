@@ -1,0 +1,1 @@
+echo "Este es mi nuevo archivo" > nuevo.txt
